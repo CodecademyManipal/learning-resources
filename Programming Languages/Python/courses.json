@@ -1,0 +1,20 @@
+{
+  "courses": [
+     {
+      "courseName": "",
+      "url": "",
+      "pricing": {
+        "freeToWatch": true,
+        "freeCertificate": false
+      }
+    },
+    {
+      "courseName": "",
+      "url": "",
+      "pricing": {
+        "freeToWatch": true,
+        "freeCertificate": false
+      }
+    }
+  ]
+}
